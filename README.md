@@ -37,4 +37,4 @@ The system monitors logs and system activity, detects suspicious behavior, and t
 (Upload your video here OR paste Google Drive link)
 
 ## 🏗️ Architecture
-<img width="700" alt="Architecture png" src="https://github.com/user-attachments/assets/20297e75-8b7a-4020-a908-f4c483faeb77" />
+<img width="400" alt="Architecture png" src="https://github.com/user-attachments/assets/20297e75-8b7a-4020-a908-f4c483faeb77" />
