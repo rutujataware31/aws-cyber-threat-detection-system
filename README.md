@@ -34,7 +34,7 @@ The system monitors logs and system activity, detects suspicious behavior, and t
 - Improved system monitoring and reliability
 
 ## 🎥 Project Demo
-(Upload your video here OR paste Google Drive link)
+▶️ [Click here to watch the demo](https://drive.google.com/file/d/1DqZgw-IJTRF2ek3tiWJI4dpMY-25KKMx/view?usp=drive_link)
 
 ## 🏗️ Architecture
 <img width="400" alt="Architecture png" src="https://github.com/user-attachments/assets/20297e75-8b7a-4020-a908-f4c483faeb77" />
